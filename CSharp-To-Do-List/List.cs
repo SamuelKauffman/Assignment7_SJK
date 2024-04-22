@@ -26,6 +26,7 @@ class List{
         this.list[index] = item;
         System.Console.WriteLine("Your new item in " + index+1 + " is " + item);
         System.Console.WriteLine("\n");
+		System.Console.WriteLine("Chris has edited this wow.");
         
     }
 
